@@ -1,5 +1,4 @@
-(ns strcalc.core
-  (:require [clojure.string :as str]))
+(ns strcalc.core)
 
 (defn add [s]
   (->> s
